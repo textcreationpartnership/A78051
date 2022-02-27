@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment and condemnation of Cap. Bridges Bushell; declaring the occasion and manner how a soldier was by him slain, about nine years since; for which he was never questioned till midsummer last, 1656. At which time he was apprehended, and upon examination committed to the White Lion prison in Southwark. And at the Lent-Assizes there, anno 1657. recieved the sentence of death; which was accordingly executed. Left behinde him in writing, to the end it might be printed and published.</title>
+            <author>Bushell, Bridges, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78051</idno>
+            <idno type="STC">Wing B6233A</idno>
+            <idno type="STC">Thomason E910_8</idno>
+            <idno type="STC">ESTC R207512</idno>
+            <idno type="EEBO-CITATION">99866557</idno>
+            <idno type="PROQUEST">99866557</idno>
+            <idno type="VID">118833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118833)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E910[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment and condemnation of Cap. Bridges Bushell; declaring the occasion and manner how a soldier was by him slain, about nine years since; for which he was never questioned till midsummer last, 1656. At which time he was apprehended, and upon examination committed to the White Lion prison in Southwark. And at the Lent-Assizes there, anno 1657. recieved the sentence of death; which was accordingly executed. Left behinde him in writing, to the end it might be printed and published.</title>
+                  <author>Bushell, Bridges, d. 1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Marmaduke Boat,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118833:1"/>
+            <pb facs="tcp:118833:1" rendition="simple:additions"/>
+            <p>THE Arraignment and Condemnation OF Cap. Bridges Buſhell; DECLARING The Occaſion and Manner how A SOLDIER Was by him ſlain, about Nine years ſince; For which he was never queſtioned Till <hi>Midſummer</hi> laſt, 1656.</p>
+            <p>At which time he was apprehended, and upon Examina<g ref="char:EOLhyphen"/>tion committed to the <hi>White Lion</hi> Priſon in <hi>Southwark.</hi>
+            </p>
+            <p>And at the <hi>Lent-Aſſizes</hi> there, <hi>Anno</hi> 1657. Received the Sentence of Death; which was accordingly Executed.</p>
+            <p>
+               <hi>Left behinde him in Writing, to the End it might be Printed and Publiſhed,</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Marmaduke Boat.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="statement">
+            <pb facs="tcp:118833:2"/>
+            <pb n="3" facs="tcp:118833:2"/>
+            <p>I <hi>Bridges Buſhell</hi> Captain, deſire that theſe Lines may be Publiſhed in Print, for the Satisfaction of ſome Friends. The which Lines are to declare the occaſion and manner how a Soldier was by me ſlain about Nine years ſince; As alſo to manifeſt, That although I have been at my home at <hi>Darkin,</hi> in the County of <hi>Surrey,</hi> ſeveral times ſince the Fact (ſo called) was done; yet I was never queſtioned for it until <hi>Midſummer</hi> laſt paſt. <hi>Anno Dom. 1656.</hi> I being then a Soldier in Collonel <hi>Ingoldsbies</hi> Regiment, in Captain <hi>Fox</hi> his Company; where by means of Information given unto Enſign <hi>Frances,</hi> Enſign to Captain <hi>Fox</hi> aforeſaid, I was apprehended, and after Examination committed to the <hi>White Lyon</hi> Priſon in <hi>Southwark,</hi> and at the <hi>Lent</hi> Aſ<g ref="char:EOLhyphen"/>ſizes, <hi>1657.</hi> I was araigned and condemned to dye.</p>
+            <p>
+               <seg rend="decorInit">A</seg>Bout Nine years ſince, or more; it was at that time when the late Earl of <hi>Holland</hi> raiſed a party for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> late King of <hi>England,</hi> in the County of <hi>Surrey,</hi> I being then a Soldier for that party, and the Head-quarters being then at <hi>Rygate,</hi> in the County aforeſaid. And upon the day that our party was to march from <hi>Rygate</hi> to <hi>Darkin,</hi> a Neighboring Town; I ſtaying behind at <hi>Rygate,</hi> there came a Soldier of the Parliaments party, which was a Trooper, into the ſaid
+<pb n="4" facs="tcp:118833:3"/> Town, whoſe Piſtols were taken away, but not by me, though I owned that Act; whereupon the Trooper vio<g ref="char:EOLhyphen"/>lently aſſaulted me with his Sword drawn; and I in my own defence, anſwered him as a Publick Enemy (as he was) and ſhot him: For the which I was never queſtion<g ref="char:EOLhyphen"/>ed, until the time aboveſaid; although I was ſeveral times at my aboveſaid home ſince the death of the ſaid Soldier, as is well known; yet notwithſtanding, when I was brought to my Tryal, at the time and place before mentioned, the chief Evidence that was there and then given in againſt me, was by one that was but Ten years old when the above ſaid Trooper was ſlain: The Jury then brought in their Verdict that I was guilty of Man<g ref="char:EOLhyphen"/>ſlaughter, who afterwards altered their Judgments, and brought me in guilty of wilful Murther; and thereupon I received the Sentence of Death.</p>
+            <p>Be pleaſed to [obſerve that the aboveſaid Evidence was in oppoſition to truth; for the ſaid witneſs ſwore, That I had never been at home at my own houſe at <hi>Darkin</hi> ſince the Trooper was ſlain, though it be known that for five years together, I came ſeveral times, and ſtayed with my Family ſo long as my then preſent Im<g ref="char:EOLhyphen"/>ployments would admit of, I being then a Soldier in the ſervice of the Commonwealth of <hi>England,</hi> and was up<g ref="char:EOLhyphen"/>on many D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſigns; as at the taking of the Iſlands of <hi>Silly</hi> and <hi>Jerſey,</hi> and was likewiſe at the two laſt En<g ref="char:EOLhyphen"/>gagements at Sea againſt the <hi>Hollanders,</hi> being Cor<g ref="char:EOLhyphen"/>poral at that time of the <hi>Culpepper,</hi> under the command of Capt. <hi>Cheney.</hi> In all which ſervices, it is well known I behaved my ſelf faithfully and valiantly.</p>
+            <p>And now briefly, I ſhall recite the Injuries that I have ſuffered, which will be, I believe, by ſome la<g ref="char:EOLhyphen"/>mented.</p>
+            <pb n="5" facs="tcp:118833:3"/>
+            <p>Firſt, I look upon the Evidence as inconſiderable, in reſpect of his Nonage.</p>
+            <p>Secondly, In reſpect of his Oath, which was in con<g ref="char:EOLhyphen"/>tradiction to the Teſtimony of more then Forty perſons of credit.</p>
+            <p>Thirdly, I judge it could not be proved wilful Murther, in reſpect that the man ſlain, was to me a ſtran<g ref="char:EOLhyphen"/>ger; ſo that there could be no former grudge: And alſo as I before ſaid, he was a profeſſed Enemy.</p>
+            <p>Much more I could ſay, as in reference to the un<g ref="char:EOLhyphen"/>kindneſs of my neareſt relations; But not willing to caſt an odium upon them. I ſhall be ſparing in publiſhing their want of Love and Duty: Yet I muſt ſpeak truth, both Wife and Children neglected me in my greateſt miſery; ſo that I may ſay of them, Miſerable comforters were they all; yet God was pleaſed to raiſe me a Friend, when all my Relations left me: For in my Impriſon<g ref="char:EOLhyphen"/>ment, a poor Widow (whoſe Husband was my dear Friend; yet I had not beheld her face in four years, before ſhe came and adminiſtred unto me) ſupplyed my wants with what ſhe got by her Labor. So that my maintenance may probably prove her ruine, if not pre<g ref="char:EOLhyphen"/>vented by ſome of my Friends; who I hope (though I cannot promiſe) may requite her; however, I hope the Lord will requite her.</p>
+            <p>And leaſt any ſhould think it were for any ſiniſter end, that ſhe ſhould thus contribute to my extream ne<g ref="char:EOLhyphen"/>ceſſities, know, It was for no other cauſe, but that I and her Husband was familiar Friends; onely her com<g ref="char:EOLhyphen"/>paſſionate Soul ſympathiſing with me in my indigent and deplorable eſtate; which was certainly by an extra<g ref="char:EOLhyphen"/>ordinary providence. For the which, I deſire to aſcribe g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory to God.</p>
+            <pb n="6" facs="tcp:118833:4"/>
+            <p>Again, for the Publick Satisfaction of all, as refer<g ref="char:EOLhyphen"/>ing to the Fact, both in the Manner and Matter of it, as is above declared, I dye Innocently in reſpect of the National Law: And becauſe the manner of my death is a ſhameful death, I deſire all, that they would not in the le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt attribute it to the diſhonor of the Family, from whence I deſcended.</p>
+            <p>And now all you that ſhall peruſe theſe Lines, be<g ref="char:EOLhyphen"/>ing the Language of a dying man, take notice that I freely forgive all ſuch that are concerned in my death, whether ignorantly, wilfully, or negligently; and my Prayers are, That the Almighty would not ſo lay it to their charge, as may redound to their Ruines.</p>
+            <p>And now be pleaſed to ſuffer a few words of advice, Labor to be circumſpect in your Pilgrimage here, and beware of the deceiving vanities of this World; truſt not in the promiſes of great ones, nor put not thy truſt in Princes, whoſe breath is in their Noſtrils. Go not forth haſtily to ſtrive, leſt thou know not what to do in the end, but ponder the paths of thy Feet, and let all thy ways be eſtabliſhed; neither inſult over others in their ruines. And let him that thinketh he ſtands, take heed leſt he fall; nor boaſt not thy ſelf of to morrow, for thou know<g ref="char:EOLhyphen"/>eſt not what a day may bring forth.</p>
+            <div type="elegies">
+               <pb n="7" facs="tcp:118833:4"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>pon Captain <hi>Buſhell.</hi>
+               </head>
+               <lg>
+                  <l>I Cannot I adorn thy Herſe</l>
+                  <l>With any high Heroick Verſe,</l>
+                  <l>Nor blaze thy name beyond deſert;</l>
+                  <l>Truth bids me tell but what thou wert.</l>
+                  <l>Thy name and place, where known, was good,</l>
+                  <l>And that thou ſprang'ſt from Gentile blood,</l>
+                  <l>Pitty it was ſo hard a Fate,</l>
+                  <l>Should lend thy life no longer date.</l>
+               </lg>
+               <lg>
+                  <l>BEreft of life, and by ſo hard a Fate,</l>
+                  <l>Revive his memory, and him antidate.</l>
+                  <l>Imbalm his Name, with odors ſweet, though hence</l>
+                  <l>Death ſnatch'd him; and if by his offence</l>
+                  <l>The Law he hath incur'd, and merited his Death,</l>
+                  <l>Envy be ſilent, let not infectious breath</l>
+                  <l>Send ſcandals forth 'gainſt him, becauſe he dy'd</l>
+                  <l>By th'hand of Juſtice; Oh let none deride;</l>
+                  <l>Vertue and Ingenuity, moſt ſure I am,</l>
+                  <l>Shall not inſult, nor glory in his ſhame.</l>
+                  <l>How can the beſt of men, bleſt Ends premiſe?</l>
+                  <l>Even when there's nothing certain but uncertainties.</l>
+                  <l>Let none then poſt, but by his end take heed,</l>
+                  <l>Leſt whilſt you think you ſtand, you fall indeed.</l>
+               </lg>
+               <pb n="8" facs="tcp:118833:5"/>
+               <lg>
+                  <head>
+                     <g ref="char:V">Ʋ</g>pon the Widows Charity.</head>
+                  <l>MUch hath been wrote and ſaid in Ancient Days,</l>
+                  <l>Of Womens commendation; would I could praiſe</l>
+                  <l>This poor, yet much deſerving one, whoſe worth is ſuch,</l>
+                  <l>As is the pureſt Gold, ſo prov'd by touch.</l>
+                  <l>No counterfeit ſhe is, in Stamp nor Oar;</l>
+                  <l>She prov'd what ſhe appear'd, none ere could more.</l>
+                  <l>Therefore her actions ſpeaks her, better then my Quill</l>
+                  <l>Can blaze to th' World, yet I'll commend her ſtill;</l>
+                  <l>And what in power is wanting, I deſire,</l>
+                  <l>But 'cauſe I cannot, I will ſtill Admire.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118833:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
